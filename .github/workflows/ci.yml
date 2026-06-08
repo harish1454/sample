@@ -4,4 +4,5 @@ jobs:
   unit-test:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello from CI"
+      - run: printenv
+      - run: echo "Run tests here"
