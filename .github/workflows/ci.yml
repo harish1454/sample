@@ -6,3 +6,7 @@ jobs:
     steps:
       - run: printenv
       - run: echo "Run unit tests v2"
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo build complete
