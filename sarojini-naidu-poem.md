@@ -21,3 +21,29 @@ We bear her along like a pearl on a string.
 ---
 
 *From "The Golden Threshold" (1905)*
+
+---
+
+## A Modern Reinterpretation
+
+**If Written Today**
+
+---
+
+Gently, so gently, we carry her on,
+She moves like a petal caught up in our song;
+She glides like a heron across a still lake,
+She drifts like a memory too sweet to shake.
+Joyfully, joyfully, we flow and we sing,
+We carry her forward like light on a string.
+
+Softly, so softly, we carry her on,
+She shines like a lantern that's never quite gone;
+She rises like sunlight that breaks through the rain,
+She falls like a whisper that echoes again.
+Gently, so gently, we flow and we sing,
+We carry her forward like light on a string.
+
+---
+
+*A modern English reinterpretation — preserving Naidu's imagery and rhythm while using contemporary language and metaphors.*
